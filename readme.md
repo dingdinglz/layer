@@ -1,5 +1,13 @@
 # go-app layer封装
 
+注意：只适用于该WebAssembly框架:[go-app](https://go-app.dev) 
+
+## 安装
+
+```sh
+go get -u gitee.com/dinglz/layer
+```
+
 ## 使用前
 
 需要引入layui或者layer的静态文件，包括js和css
@@ -10,7 +18,9 @@
 
 ## 具体使用
 
-请参见example
+请参见[example](https://gitee.com/dinglz/layer/tree/master/example)
+
+[下载example成品或源码](https://gitee.com/dinglz/layer/releases)
 
 ## 声明
 

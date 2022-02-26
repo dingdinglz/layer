@@ -1,4 +1,4 @@
-module github.com/dingdinglz/layer
+module gitee.com/dinglz/layer
 
 go 1.17
 
